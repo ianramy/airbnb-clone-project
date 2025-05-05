@@ -10,7 +10,7 @@ This project aims to recreate a simplified version of Airbnb’s core functional
 - Practice full-stack development skills.
 - Collaborate effectively using GitHub workflows.
 
-## Tech Stack
+## Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (React.js optional later)
 - **Backend**: Python (Flask/Django), Node.js (optional)
@@ -71,7 +71,7 @@ It helps developers, designers, and testers stay on the same page.
 
 ---
 
-## Project Roles and Responsibilities
+## Team Roles
 
 | Role                  | Responsibilities |
 |------------------------|------------------|
